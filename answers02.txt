@@ -1,0 +1,20 @@
+QUESTION 1
+a. 2
+b. does not return any string when an else statement is not provided
+c. 1
+d. 7
+
+QUESTION 2
+a. 1
+b. 1
+
+QUESTION 3
+2
+4
+6
+8
+10
+We run through the body 5 times.
+
+QUESTION 4
+It does not print anything since even the first condition is not true. if i had been greater than 10, the we would have had results.
